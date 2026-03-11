@@ -1,46 +1,53 @@
-# Hi, I'm Vaibhav
+# Vaibhav Khamgaonkar
 
-I build software with an open-source mindset: practical, readable, and built to solve real problems.
+### Software Engineer | Open Source Builder | AI-Focused Developer
 
-## What I Care About
+I build practical software, contribute in public, and care about systems that stay readable as they grow.
 
-- Shipping useful products, not just demos
-- Writing maintainable code that other developers can extend
-- Contributing to communities, tools, and workflows that scale
-- Learning fast, iterating hard, and improving with feedback
+<p>
+  <img src="https://img.shields.io/badge/Open%20Source-Builder-1f6feb?style=for-the-badge" alt="Open Source Builder" />
+  <img src="https://img.shields.io/badge/AI-Engineering-0f766e?style=for-the-badge" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/Code-Clean%20%26%20Maintainable-7c3aed?style=for-the-badge" alt="Clean and Maintainable Code" />
+</p>
 
-## What You'll Find Here
+## About Me
 
-- Open-source experiments and production-minded side projects
-- Clean implementations, thoughtful structure, and steady iteration
-- Code that reflects curiosity, ownership, and engineering discipline
+- Building software with a strong focus on clarity, ownership, and execution
+- Interested in AI-powered products, developer tools, and scalable backend systems
+- Comfortable learning fast, shipping iteratively, and improving through feedback
+- Prefer simple solutions, solid engineering tradeoffs, and code others can work with
 
-## How I Work
+## AI Expertise
 
-- I like hard problems, clear tradeoffs, and simple solutions
-- I care about code quality, developer experience, and long-term maintainability
-- I collaborate well across product, engineering, and community contexts
+- Building AI-assisted workflows and product features
+- Working with LLM-powered applications and automation ideas
+- Interested in prompt design, agent workflows, and developer productivity tooling
+- Focused on practical AI use cases, not hype-driven demos
 
-## Open To
+## What I Bring
 
-- Software engineering opportunities
-- Open-source collaboration
-- Interesting technical discussions and project ideas
+- Product-minded engineering with an open-source mindset
+- Maintainable implementations over flashy complexity
+- Strong collaboration habits and a bias toward shipping
+- Curiosity across software, systems, and emerging AI workflows
 
-## Connect
+## Areas I Enjoy
 
-- GitHub: [@opensourcevk](https://github.com/opensourcevk)
-- LinkedIn: [vaibhavkhamgaonkar](https://www.linkedin.com/in/vaibhavkhamgaonkar)
-- Portfolio: add-your-link-here
-- Email: add-your-email-here
+`AI Applications` `Developer Tools` `Backend Engineering` `Automation` `Open Source`
 
 ## GitHub Snapshot
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=opensourcevk&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=opensourcevk&layout=compact&hide_border=true)
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=opensourcevk&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opensourcevk&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+## Philosophy
+
+> Build things that are useful. Write code people can trust. Keep improving in public.
 
 ---
 
-If you're a recruiter, you'll find a developer who values execution, clarity, and ownership.
+If you're a recruiter, this profile reflects a developer who values execution, adaptability, and long-term code quality.
 
-If you're a developer, you'll find someone who enjoys building, contributing, and improving things in public.
+If you're a developer, expect someone who likes building seriously useful things and exploring modern AI-first workflows.
