@@ -1,8 +1,11 @@
-# Vaibhav Khamgaonkar
+# Hi there, I'm Vaibhav Khamgaonkar 👋
 
-### Software Engineer | Open Source Builder | AI-Focused Developer
+### Software Engineer | AI-Focused Developer | Open Source Contributor
 
-I build practical software, contribute in public, and care about systems that stay readable as they grow.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/vaibhavkhamgaonkar)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail)](mailto:vaibhav@example.com)
+
+I build practical, scalable software, contribute to open source, and care deeply about systems that remain maintainable and readable as they grow. I thrive at the intersection of product engineering and emerging AI workflows.
 
 <p>
   <img src="https://img.shields.io/badge/Open%20Source-Builder-1f6feb?style=for-the-badge" alt="Open Source Builder" />
@@ -10,44 +13,43 @@ I build practical software, contribute in public, and care about systems that st
   <img src="https://img.shields.io/badge/Code-Clean%20%26%20Maintainable-7c3aed?style=for-the-badge" alt="Clean and Maintainable Code" />
 </p>
 
-## About Me
-
-- Building software with a strong focus on clarity, ownership, and execution
-- Interested in AI-powered products, developer tools, and scalable backend systems
-- Comfortable learning fast, shipping iteratively, and improving through feedback
-- Prefer simple solutions, solid engineering tradeoffs, and code others can work with
-
-## AI Expertise
-
-- Building AI-assisted workflows and product features
-- Working with LLM-powered applications and automation ideas
-- Interested in prompt design, agent workflows, and developer productivity tooling
-- Focused on practical AI use cases, not hype-driven demos
-
-## What I Bring
-
-- Product-minded engineering with an open-source mindset
-- Maintainable implementations over flashy complexity
-- Strong collaboration habits and a bias toward shipping
-- Curiosity across software, systems, and emerging AI workflows
-
-## Areas I Enjoy
-
-`AI Applications` `Developer Tools` `Backend Engineering` `Automation` `Open Source`
-
-## GitHub Snapshot
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=opensourcevk&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opensourcevk&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
-## Philosophy
-
-> Build things that are useful. Write code people can trust. Keep improving in public.
-
 ---
 
-If you're a recruiter, this profile reflects a developer who values execution, adaptability, and long-term code quality.
+## 🚀 About Me
 
-If you're a developer, expect someone who likes building seriously useful things and exploring modern AI-first workflows.
+- 💡 **Product-minded Engineering**: I focus on clarity, ownership, and execution, building solutions that deliver real value to users.
+- ⚙️ **Backend & Systems**: I design scalable backend systems, prioritizing simple solutions and solid engineering tradeoffs over flashy complexity.
+- 🤖 **AI Integration**: Passionate about building AI-powered products and developer tools. I focus on practical AI use cases, prompt engineering, and agent workflows, not just hype-driven demos.
+- 🌱 **Continuous Learner**: Comfortable learning fast, shipping iteratively, and continuously improving through peer feedback and code reviews.
+
+## 💻 Tech Stack & Skills
+
+*(A quick overview of what I bring to the table)*
+
+- **Languages:** Python, JavaScript/TypeScript, SQL
+- **Backend & Cloud:** Node.js, API Design, Docker, Cloud Platforms
+- **AI & Data:** LLM Integrations, Prompt Engineering, Agent Workflows
+- **Practices:** System Design, Clean Code, CI/CD, Agile Methodologies
+
+## 🧠 Engineering Philosophy
+
+*For the Senior Engineers and Tech Leads:*
+
+> "Write code that the next developer can easily understand and safely modify."
+
+- **Pragmatism over Dogma:** I choose the right tool for the job. Sometimes that's a proven, boring technology; sometimes it's cutting-edge AI.
+- **Maintainability:** I heavily value clean code, comprehensive testing, and clear documentation. Code is read far more often than it is written.
+- **Collaboration:** I believe the best software is built by teams that communicate well, share knowledge openly, and review code constructively.
+
+## 📊 GitHub Snapshot
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=opensourcevk&show_icons=true&hide_border=true&rank_icon=github&theme=radical" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opensourcevk&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+</p>
+
+## 🤝 Let's Connect
+
+Whether you're a **recruiter** looking for a developer who values execution, adaptability, and long-term code quality, or a **senior engineer** who wants to chat about modern AI-first workflows and building seriously useful things—I'd love to connect!
+
+📫 **Reach out to me via [LinkedIn](https://linkedin.com/in/vaibhavkhamgaonkar) or [Email](mailto:vaibhav@example.com).**
