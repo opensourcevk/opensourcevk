@@ -3,7 +3,7 @@
 ### Software Engineer | AI-Focused Developer | Open Source Contributor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/vaibhavkhamgaonkar)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail)](mailto:vcharmcaster@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail)](mailto:vcharmcaster@outlook.com)
 
 I build practical, scalable software, contribute to open source, and care deeply about systems that remain maintainable and readable as they grow. I thrive at the intersection of product engineering and emerging AI workflows.
 
@@ -52,4 +52,4 @@ I build practical, scalable software, contribute to open source, and care deeply
 
 Whether you're a **recruiter** looking for a developer who values execution, adaptability, and long-term code quality, or a **senior engineer** who wants to chat about modern AI-first workflows and building seriously useful things—I'd love to connect!
 
-📫 **Reach out to me via [LinkedIn](https://linkedin.com/in/vaibhavkhamgaonkar) or [Email](mailto:vcharmcaster@gmail.com).**
+📫 **Reach out to me via [LinkedIn](https://linkedin.com/in/vaibhavkhamgaonkar) or [Email](mailto:vcharmcaster@outlook.com).**
