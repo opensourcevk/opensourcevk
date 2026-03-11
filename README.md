@@ -1,8 +1,46 @@
-In the world of code, I make my mark, Contributing to projects that light up the dark. 
-Open source is my passion, my calling, my art, I bring my skills and knowledge to every part.
+# Hi, I'm Vaibhav
 
-From bug fixes to features, I lend a hand, Building a community that's strong and grand. 
-Collaborating with others, we strive for perfection, Creating software that's a reflection of our connection.
+I build software with an open-source mindset: practical, readable, and built to solve real problems.
 
-In the world of open source, I find my home, A place where innovation and creativity roam. 
-So join me in this journey, let's code together, And make the world a better place, now and forever.
+## What I Care About
+
+- Shipping useful products, not just demos
+- Writing maintainable code that other developers can extend
+- Contributing to communities, tools, and workflows that scale
+- Learning fast, iterating hard, and improving with feedback
+
+## What You'll Find Here
+
+- Open-source experiments and production-minded side projects
+- Clean implementations, thoughtful structure, and steady iteration
+- Code that reflects curiosity, ownership, and engineering discipline
+
+## How I Work
+
+- I like hard problems, clear tradeoffs, and simple solutions
+- I care about code quality, developer experience, and long-term maintainability
+- I collaborate well across product, engineering, and community contexts
+
+## Open To
+
+- Software engineering opportunities
+- Open-source collaboration
+- Interesting technical discussions and project ideas
+
+## Connect
+
+- GitHub: [@opensourcevk](https://github.com/opensourcevk)
+- LinkedIn: [vaibhavkhamgaonkar](https://www.linkedin.com/in/vaibhavkhamgaonkar)
+- Portfolio: add-your-link-here
+- Email: add-your-email-here
+
+## GitHub Snapshot
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=opensourcevk&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=opensourcevk&layout=compact&hide_border=true)
+
+---
+
+If you're a recruiter, you'll find a developer who values execution, clarity, and ownership.
+
+If you're a developer, you'll find someone who enjoys building, contributing, and improving things in public.
